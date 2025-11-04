@@ -15,8 +15,8 @@ To find the longest string (or strings) that is a substring (or are substrings) 
 ```
 /*
 Program to implement the longest common substring problem.
-Developed by: ARSHAD AHMED M
-Register Number: 212222040014
+Developed by: Daniel C
+Register Number: 212223240023
 */
 ```
 ```py
