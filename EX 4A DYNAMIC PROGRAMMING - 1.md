@@ -6,9 +6,13 @@ To find longest common subsequence using Dynamic Programming.
 
 ## Algorithm
 1. Create a table c where each cell stores the LCS length for parts of u and v.
+ 
 2. Fill the table from the end of both strings towards the start.
+ 
 3. If characters match, add 1 to the LCS length; else take the maximum of two possible moves.
+ 
 4. Start from the beginning and move through c to reconstruct one LCS.
+ 
 5. Print the matching characters along the path.  
 
 ## Program:
@@ -18,8 +22,8 @@ To find longest common subsequence using Dynamic Programming.
 Program to implement the longest common subsequence using Dynamic Programming
 
 .
-Developed by: ARSHAD AHMED M
-Register Number: 212222040014
+Developed by: Daniel C
+Register Number: 212223240023
 */
 ```
 ```py
